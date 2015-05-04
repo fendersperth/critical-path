@@ -38,6 +38,6 @@
 - limit initial payload 
 
 ## Links
-https://github.com/filamentgroup/loadCSS
-http://headjs.com/
-https://github.com/typekit/webfontloader
+- https://github.com/filamentgroup/loadCSS
+- http://headjs.com/
+- https://github.com/typekit/webfontloader
